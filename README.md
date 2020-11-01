@@ -7,4 +7,13 @@
 ### Minggu 2
    - CSS (Castcading Style Sheets)
       - Selector,Property,Value
+      - Colors
+      - Text
+      - Margin & Padding
+      - Border
       - Grouping,Nesting
+      - Pseudo Classes
+      - Background Image
+      - Image
+      - Specificity
+      -
