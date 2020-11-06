@@ -26,4 +26,10 @@
       - Background Image
       - Image
       - Specificity
+   - Git
+      - Membuat Repository
+      - Menambahkan file ke Repository
+      - Membuat commit
+      - Remote Repository
+      - Push ke github
       
